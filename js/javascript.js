@@ -19,7 +19,7 @@ document.addEventListener("keydown", function (event) {
     jurk_drie.style.cssText = "display:none";
     jurk_vier.style.cssText = "display:none";
     begin.style.cssText = "display:none";
-  }screenX
+  }
 
     // letter w voor jurk_twee
   if (event.key === "w") {

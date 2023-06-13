@@ -38,7 +38,7 @@ header {
 
 /* opzet alle jurken */
 .scherm {
-  background: #979797;
+  background: #ffffff;
   border-radius: 30px;
   font-size: 100px;
   height: 500px;
@@ -116,4 +116,14 @@ p {
 
 .beeld {
   font-size: 90px;
+}
+
+.scherm img {
+  height: 500px;
+  width: 340px;
+  margin-left: 85px;
+}
+
+textarea {
+  width: 100%;
 }
